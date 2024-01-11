@@ -1,6 +1,6 @@
-Rock Scissors Paper for Python - Камень Ножницы Бумага на Python
+* Rock Scissors Paper for Python - Камень Ножницы Бумага на Python
 
-Insatll
+* Insatall
 ```
 git clone https://github.com/EverCryst/rock-paper-scissors.git
 cd rock-paper-scissors
